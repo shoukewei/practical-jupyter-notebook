@@ -1,4 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WEIAI-TECH/practical-jupyter-notebook/HEAD)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//WEIAI-TECH/practical-jupyter-notebook/)
 
 # practical-jupyter-notebook
 This repository contains the Jupyter notebooks of my online course ***Practical Jupyter Notebook from Beginner to Expert*** on [thinkific](https://sdit.thinkific.com/courses/practical-jupyter-notebook-course) and [Udemy](https://www.udemy.com/course/practical-jupyter-notebook-from-beginner-to-expert/?referralCode=1A3DB60FCF0168B0C31C)
