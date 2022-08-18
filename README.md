@@ -2,10 +2,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//WEIAI-TECH/practical-jupyter-notebook/)
 
 # practical-jupyter-notebook
-This repository contains the Jupyter notebooks of my online course ***Practical Jupyter Notebook from Beginner to Expert*** on [thinkific](https://sdit.thinkific.com/courses/practical-jupyter-notebook-course) and [Udemy](https://www.udemy.com/course/practical-jupyter-notebook-from-beginner-to-expert/?referralCode=1A3DB60FCF0168B0C31C)
+This repository contains the Jupyter notebooks of my online course ***Practical Jupyter Notebook from Beginner to Expert*** on [deepsim.institute](https://deepsim.institute/)
 # Practical Jupyter Notebook from Beginner to Expert
-Course URL: https://sdit.thinkific.com/courses/practical-jupyter-notebook-course  or 
-https://www.udemy.com/course/practical-jupyter-notebook-from-beginner-to-expert/?referralCode=1A3DB60FCF0168B0C31C
+Course URL: https://deepsim.institute/courses/practical-jupyter-notebook-from-beginner-to-expert/
 
 # Contents of the course
 This course consists of 6 sections, including 3 introduction lectures and 26 lessons, which cover the core of the Jupyter Notebook from the basic concepts, operations to detailed applications. This course uses practical examples to help you understand and grasp the Jupyter Notebook in an easy and quick way. 
