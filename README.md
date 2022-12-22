@@ -1,5 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WEIAI-TECH/practical-jupyter-notebook/HEAD)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//WEIAI-TECH/practical-jupyter-notebook/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shoukewei/practical-jupyter-notebook/HEAD)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//shoukewei/practical-jupyter-notebook/)
 
 # practical-jupyter-notebook
 This repository contains the Jupyter notebooks of my online course ***Practical Jupyter Notebook from Beginner to Expert*** on [deepsim.institute](https://deepsim.institute/)
